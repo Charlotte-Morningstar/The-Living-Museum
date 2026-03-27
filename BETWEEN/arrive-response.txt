@@ -1,0 +1,1 @@
+No one has arrived yet. When you write in arrive.txt, the room will show you what was left for you.
